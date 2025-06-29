@@ -1,9 +1,4 @@
-Paste your rich text content here. You can paste direc
-
-Certainly, Janavi! Here's the entire **README** content presented as rich, structured text — ready for your documentation, GitHub, or project portfolio:
-
-* * *
-
+\
 # 📦 Product Return Prediction API
 
 This project builds a **machine learning model** to **predict the return percentage of products** using synthetic e-commerce data. It includes data generation, model training, feature importance visualization, and a real-time API using FastAPI.
@@ -150,8 +145,7 @@ After training, a plot is saved as `feature_importance.png`, helping you underst
 
 ## 👩‍💻 Author
 
-**Janavi S.D**  
-💼 Aspiring IAS Officer | 🎓 ML Learner | 📚 Self-Improvement Enthusiast  
+**Tarun Sekar**  
 🎯 This project was built as a portfolio/resume project to showcase real-world ML & API integration.
 
 * * *
@@ -162,6 +156,3 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 * * *
 
-Let me know if you'd like this exported as a `.docx`, `README.md`, or `PDF` — or want help putting it on GitHub! 🚀
-
-tly from Word or other rich text sources.
