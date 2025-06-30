@@ -145,7 +145,7 @@ After training, a plot is saved as `feature_importance.png`, helping you underst
 
 ## 👩‍💻 Author
 
-**Tarun Sekar**  
+**Tarun Sekar & Sagar K Pillai**  
 🎯 This project was built as a portfolio/resume project to showcase real-world ML & API integration.
 
 * * *
